@@ -12,7 +12,7 @@ end
 
 def output_array(array)
   for i in array do
-    puts array[i]
+    puts i
   end
 end
 
